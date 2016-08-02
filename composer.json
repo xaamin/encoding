@@ -1,7 +1,5 @@
 {
     "name": "xaamin/encoding",
-    "version": "1.0",
-    "homepage": "http://www.itnovado.com",
     "description": "PHP Class Encoding that fixes mixed encoded strings.",
     "type": "library",
     "keywords": [
