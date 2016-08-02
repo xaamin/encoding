@@ -1,0 +1,27 @@
+{
+    "name": "xaamin/encoding",
+    "version": "1.0.0",
+    "homepage": "http://www.itnovado.com",
+    "description": "PHP Class Encoding that fixes mixed encoded strings.",
+    "type": "library",
+    "keywords": [
+        "utf8", 
+        "encoding", 
+        "latin1", 
+        "ISO88591", 
+        "WIN1252"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamín Martínez Mateos",
+            "email": "benxaamin@outlook.com",
+            "homepage": "http://itnovado.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Xaamin\\Encoding\\": "src/"
+        }
+    }
+}
